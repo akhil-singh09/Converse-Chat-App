@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "947019361152",
+    "firebase_url": "https://chat-app-ac420-default-rtdb.firebaseio.com",
+    "project_id": "chat-app-ac420",
+    "storage_bucket": "chat-app-ac420.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947019361152:android:84961c6cd25732d855ef65",
+        "android_client_info": {
+          "package_name": "com.chat.conversechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947019361152-qq3a68kv7tad3ggch47s1rd9arvr8i43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdBv1zYdkSqGb1_rTBhEbpgva9qbLbfx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947019361152-qq3a68kv7tad3ggch47s1rd9arvr8i43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
